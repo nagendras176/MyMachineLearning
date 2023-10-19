@@ -1,2 +1,7 @@
 # MyMachineLearning
-This is the repository for myself to learn about machine learning.
+This is my repository to log my learnings of Machine Learning ans Artifical Intelligence.
+
+
+
+
+
